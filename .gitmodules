@@ -1,0 +1,3 @@
+[submodule "Adafruit_CircuitPython_Wiznet5k"]
+	path = Adafruit_CircuitPython_Wiznet5k
+	url = https://github.com/bebrown/Adafruit_CircuitPython_Wiznet5k
